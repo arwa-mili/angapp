@@ -11,7 +11,7 @@ export class AboutComponent implements OnInit {
  info={
     nom:"arwa",
     email:"mili.arwa.ma@gmail.com",
-    tel:99812522
+    tel:00000000
   } 
   comments=[
     {date:new Date(),message:"A"},
